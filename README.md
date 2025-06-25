@@ -15,7 +15,6 @@ This repository contains my C programming practice and revision files. It includ
 - ✅ Structures and Unions
 - ✅ File Handling
 - ✅ Preprocessor Directives
-- ✅ Viva/Interview Practice Questions
 
 ---
 
